@@ -19,18 +19,6 @@ Welcome to the Text-to-Speech Robot Speaker project! This Python script is desig
 4. Input the text you want the robot speaker to enunciate and press Enter.
 5. To exit, simply type 'exit' as prompted.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
-Feel free to contribute, report issues, or enhance the functionality of the Text-to-Speech Robot Speaker. Your participation is welcomed and appreciated!
-
-
-## Credits
-
-This game was developed as a personal project by [Muhammad Usman]. Inspired by classic text-based adventure games, it offers a captivating experience for players of all ages.
 
 ## Contact
-
 For any inquiries or feedback, feel free to reach out to [usman.the.coder@gmail.com].
-
-Enjoy the Enchanted Quest Game and may you become the hero of the magical kingdom!
